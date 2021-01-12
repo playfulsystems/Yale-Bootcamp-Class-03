@@ -1,2 +1,2 @@
 # Yale-Bootcamp-Class-03
- Prefabs and conditionals.
+ Prefabs and conditionals in Unity.
